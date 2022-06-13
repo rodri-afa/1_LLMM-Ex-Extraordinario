@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="2.xsl" type="text/xsl"?>
+
+<steam>
+    <titulo>Steam</titulo>
+    <descripcion>plataforma de videojuegos online</descripcion>
+    <mejores_juegos>
+        <juego>Grand Theft Auto V</juego>
+        <juego>Zelda: Breath of the Wild</juego>
+        <juego>Red Dead Redemption 2</juego>
+        <juego>God of War</juego>
+    </mejores_juegos>
+</steam>
